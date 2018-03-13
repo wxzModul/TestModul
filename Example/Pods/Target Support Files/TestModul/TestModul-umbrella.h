@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "WXZTestViewController.h"
 
 FOUNDATION_EXPORT double TestModulVersionNumber;
 FOUNDATION_EXPORT const unsigned char TestModulVersionString[];

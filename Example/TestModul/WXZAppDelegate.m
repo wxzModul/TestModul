@@ -7,6 +7,7 @@
 //
 
 #import "WXZAppDelegate.h"
+#import "WXZTestViewController.h"
 
 @implementation WXZAppDelegate
 
